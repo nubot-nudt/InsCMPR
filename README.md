@@ -190,3 +190,6 @@ or
 ```
 python ./evaluation/evaluate_nclt.py
 ```
+### License
+This project is free software made available under the MIT License. For details see the LICENSE file.
+
